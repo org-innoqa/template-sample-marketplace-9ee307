@@ -1,6 +1,7 @@
 {
-  "name": "marketplace-app",
-  "version": "1.0.0",
+  "name": "maker-marketplace",
+  "private": true,
+  "version": "0.0.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
